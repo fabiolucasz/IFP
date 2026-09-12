@@ -16,26 +16,6 @@ Neste workshop, você aprenderá a utilizar a IA como uma **ferramenta de apoio 
 
 ---
 
-## 🎯 Objetivos de aprendizagem
-
-Ao final deste workshop, você deverá ser capaz de:
-
-* compreender o conceito básico de Inteligência Artificial;
-* entender o que é IA generativa;
-* compreender o conceito de prompt;
-* escrever prompts mais eficientes;
-* utilizar IA para tarefas do cotidiano;
-* utilizar IA como ferramenta de estudos;
-* utilizar IA para organização pessoal;
-* utilizar IA para comunicação profissional;
-* utilizar IA em tarefas administrativas;
-* utilizar IA para aumentar sua produtividade;
-* utilizar IA como apoio para programação e tecnologia;
-* identificar limitações e possíveis erros das ferramentas de IA;
-* compreender cuidados relacionados à privacidade e segurança.
-
----
-
 # 🧠 1. O que é Inteligência Artificial?
 
 Antes de falar sobre ChatGPT, Gemini ou qualquer outra ferramenta, precisamos entender o conceito de Inteligência Artificial.
