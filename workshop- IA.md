@@ -36,25 +36,6 @@ Ao final deste workshop, você deverá ser capaz de:
 
 ---
 
-# ⏱️ Duração
-
-**Carga horária sugerida:** 2 horas
-
-### Roteiro
-
-| Tempo       | Conteúdo                         |
-| ----------- | -------------------------------- |
-| 00–10 min   | O que é Inteligência Artificial? |
-| 10–25 min   | IA generativa                    |
-| 25–40 min   | Como criar bons prompts          |
-| 40–60 min   | IA no dia a dia                  |
-| 60–80 min   | IA para estudos                  |
-| 80–105 min  | IA no trabalho e produtividade   |
-| 105–115 min | Segurança, erros e limitações    |
-| 115–120 min | Desafio final e conclusão        |
-
----
-
 # 🧠 1. O que é Inteligência Artificial?
 
 Antes de falar sobre ChatGPT, Gemini ou qualquer outra ferramenta, precisamos entender o conceito de Inteligência Artificial.
